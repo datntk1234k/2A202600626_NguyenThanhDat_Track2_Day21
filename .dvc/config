@@ -1,0 +1,5 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = s3://mlops-day21-nguyenthanhdat-626/dvc
+    region = ap-southeast-1

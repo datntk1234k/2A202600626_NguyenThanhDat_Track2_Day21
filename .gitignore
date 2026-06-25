@@ -1,0 +1,14 @@
+mlflow.db
+mlruns/
+mlartifacts/
+models/
+outputs/
+data/train_phase1.csv
+data/eval.csv
+data/train_phase2.csv
+sa-key.json
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
